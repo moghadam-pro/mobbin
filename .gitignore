@@ -1,0 +1,30 @@
+# Environment & secrets
+
+.env
+env
+config.php
+
+# Runtime data
+
+list.json
+
+# Project image files (populate manually on each server)
+
+storage/\*
+!storage/.gitkeep
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Editor files
+
+.vscode/
+.idea/
+_.swp
+_.swo
+
+# PHP
+
+\*.log
