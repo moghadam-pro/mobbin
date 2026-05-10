@@ -49,7 +49,7 @@ usort($filtered, function ($a, $b) {
         </nav>
 
         <section class="hero">
-            <h1>Private Mobbin Mirror</h1>
+            <h1>Discover real-world design inspiration.</h1>
             <p>Curated internal library of app and site screenshots.</p>
         </section>
 
